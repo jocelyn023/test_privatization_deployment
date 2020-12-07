@@ -1,6 +1,6 @@
 {
   "name": "package-1",
-  "version": "0.0.2-alpha.0",
+  "version": "0.0.3-alpha.0",
   "description": "> TODO: description",
   "author": "刘巧艳 <961951661@qq.com>",
   "homepage": "https://github.com/jocelyn023/test2#readme",
@@ -24,7 +24,7 @@
     "url": "https://github.com/jocelyn023/test2/issues"
   },
   "dependencies": {
-    "base": "^0.0.2-alpha.0",
+    "base": "^0.0.3-alpha.0",
     "vue": "^2.6.12"
   },
   "gitHead": "07503e0016c222a2a1107df60efc2e9f191bac3e"
