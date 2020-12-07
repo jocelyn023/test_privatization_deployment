@@ -24,7 +24,7 @@
     "url": "https://github.com/jocelyn023/test2/issues"
   },
   "dependencies": {
-    "base": "^0.0.0",
+    "base": "^0.0.1",
     "vue": "^2.6.12"
   }
 }
