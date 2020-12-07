@@ -26,5 +26,6 @@
   "dependencies": {
     "base": "^0.0.2-alpha.0",
     "vue": "^2.6.12"
-  }
+  },
+  "gitHead": "07503e0016c222a2a1107df60efc2e9f191bac3e"
 }
