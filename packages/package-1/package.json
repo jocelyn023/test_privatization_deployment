@@ -1,5 +1,5 @@
 {
-  "name": "package-1",
+  "name": "package_1.0.00",
   "version": "0.0.4-alpha.0",
   "description": "> TODO: description",
   "author": "刘巧艳 <961951661@qq.com>",
@@ -27,5 +27,5 @@
     "base": "^0.0.3-alpha.0",
     "vue": "^2.6.12"
   },
-  "gitHead": "7dd6e94bf9cc4f8a456215e8a32320fca7e3a49f"
+  "gitHead": "8f4e96099f8e0c656526e70abecca5414d29ae45"
 }
