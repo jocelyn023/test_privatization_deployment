@@ -30,10 +30,7 @@
     "type": "git",
     "url": "git+https://github.com/jocelyn023/test_privatization_deployment.git"
   },
-  "homepage": "https://github.com/ElemeFE/mint-ui#readme",
-  "bugs": {
-    "url": "https://github.com/ElemeFE/mint-ui/issues"
-  },
+  "homepage": "https://github.com/jocelyn023/test_privatization_deployment#readme",
   "author": "elemefe",
   "license": "MIT",
   "dependencies": {

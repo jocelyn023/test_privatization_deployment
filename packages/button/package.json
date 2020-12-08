@@ -1,10 +1,11 @@
 {
-  "name": "mint-button",
+  "name": "yy-button",
   "description": "",
   "version": "0.0.10-alpha.0",
   "main": "lib/index.js",
   "author": "elemefe",
   "homepage": "https://github.com/jocelyn023/test_privatization_deployment",
   "license": "MIT",
-  "repository": "https://github.com/jocelyn023/test_privatization_deployment/tree/main/components/mint-button"
+  "repository": "https://github.com/jocelyn023/test_privatization_deployment/tree/main/components/mint-button",
+  "gitHead": "3b4005e12bf499730481a67fc0de2153ab15f7eb"
 }
