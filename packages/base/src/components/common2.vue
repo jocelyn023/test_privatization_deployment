@@ -1,6 +1,6 @@
 <template>
   <div>
-    commonbase1.vue
+    commonbase2.vue
   </div>
 </template>
 
@@ -10,6 +10,6 @@
 
 <script>
   export default {
-    name: "common1"
+    name: "common2"
   }
 </script>
