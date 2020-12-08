@@ -1,5 +1,5 @@
 {
-  "name": "@liuyu2021/yy-button",
+  "name": "yy-button123",
   "description": "",
   "version": "0.0.13-alpha.0",
   "main": "lib/index.js",
@@ -7,5 +7,5 @@
   "homepage": "https://github.com/jocelyn023/test_privatization_deployment",
   "license": "MIT",
   "repository": "https://github.com/jocelyn023/test_privatization_deployment/tree/main/components/mint-button",
-  "gitHead": "a04fdc94e74f706da07e02745c13376bfaad5ca3"
+  "gitHead": "41e3ea21404fd8a6178d41ce85e67a66cc2056b3"
 }
