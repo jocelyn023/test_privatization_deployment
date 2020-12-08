@@ -1,6 +1,6 @@
 const _ = require('lodash')
 
-import common1 from './src/components/common1'
+import common2 from './src/components/common2'
 console.log(_.VERSION);
 module.exports = {
     test () {
@@ -9,4 +9,4 @@ module.exports = {
 }
 
 
-export { common1 }
+export { common2 }
