@@ -79,9 +79,20 @@ export default {
 </script>
 
 <style lang="css">
-  @import "../../../src/style/var.css";
-
-  @component-namespace mint {
+  /* @import "../../../src/style/var.css"; */
+  .mint-button {
+    appearance: none;
+      border-radius: 4px;
+      border: 0;
+      box-sizing: border-box;
+      display: block;
+      font-size: 18px;
+      height: 41px;
+    line-height: 41px;
+    background: #333;
+    color: #fff;
+  }
+  /* @component-namespace mint {
     @component button {
       appearance: none;
       border-radius: 4px;
@@ -168,5 +179,5 @@ export default {
         opacity: .6;
       }
     }
-  }
+  } */
 </style>
